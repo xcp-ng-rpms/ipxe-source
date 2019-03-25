@@ -3,7 +3,7 @@
 Summary: iPXE source archive
 Name: ipxe-source
 Version: 1
-Release: 1
+Release: 1%{dist}
 License: GPLv2
 Patch0: makefile.patch
 Patch1: ipxe-eb5a2ba5962579e514b377f5fdab7292be0fb2a7.patch
